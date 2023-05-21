@@ -1,6 +1,6 @@
 ### Table of Contents
 
-#### 1. Installation
+#### 1. [Installation](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L10)
 #### 2. Motivation
 #### 3. File Description
 #### 4. Results
