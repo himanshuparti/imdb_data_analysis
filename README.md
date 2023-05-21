@@ -1,10 +1,10 @@
 ### Table of Contents
 
 #### 1. [Installation](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L10)
-#### 2. Motivation
-#### 3. File Description
-#### 4. Results
-#### 5. Acknowledgements
+#### 2. [Motivation](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L13)
+#### 3. [File Description](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L16)
+#### 4. [Results](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L19)
+#### 5. [Acknowledgements](https://github.com/himanshuparti/imdb_data_analysis/blob/31c0221586fd0a236daeb5b9454c4e690b53b37d/README.md#L22)
 
 
 ## INSTALLATION
