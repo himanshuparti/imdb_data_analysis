@@ -20,4 +20,4 @@ There is a python notebook available that has the code to my analysis. You can a
 The findings to the 3 questions I asked can be found here
 
 ## Acknowledgements<a name="ack"></a>
-You can find licencing for data at the kaggle link here. With that said - use the code as you like!
+You can find licencing for data at the kaggle link [here](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows). With that said - use the code as you like!
